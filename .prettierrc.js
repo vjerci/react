@@ -1,4 +1,5 @@
 'use strict';
+'trigger scan'
 
 const {esNextPaths} = require('./scripts/shared/pathsByLanguageVersion');
 
